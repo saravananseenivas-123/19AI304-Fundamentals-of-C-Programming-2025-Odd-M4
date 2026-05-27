@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
+# 19AI304-Fundamentals-of-C-Programming-2026-Odd-M4
 # IAPR-4- Module 4 - FoC
 ## 7. Implementation of Functions.
 ## 8. Implementation of passing parameters.
@@ -103,8 +103,7 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# IAPR-4- Module 4 - FoC
+
 # Ex.No:17
   Develop a C program to read two numbers from the user and determine the maximum and minimum values. Use user-defined functions with arguments and return values—one function to find the maximum (max()) and another to find the minimum (min()).
 # Date : 15/05/2026
@@ -193,8 +192,7 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# IAPR-4- Module 4 - FoC
+
 # Ex.No:18
   Develop a C program to convert temperatures between Celsius and Fahrenheit: Convert Celsius to Fahrenheit using a function that returns the converted value. Convert Fahrenheit to Celsius using another function that returns the converted value. Display the results in the main() function.
 # Date : 15/05/2026
@@ -284,8 +282,7 @@ float ftocel() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
  
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# IAPR-4- Module 4 - FoC
+
 # Ex.No:19
   Build a C program to print the elements of a given 4×4 matrix in spiral order starting from the top-left element and moving clockwise,using a user-defined parameterized function without return spiralPrint().
 # Date : 15/05/2026
@@ -385,8 +382,7 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# IAPR-4- Module 4 - FoC
+
 # Ex.No:20
   Build a C program to convert a string such that the first and last characters, as well as the characters before and after each space, are converted to uppercase. Implement this using a user-defined parameterized function without return.
 # Date : 15/05/2026
